@@ -14,9 +14,11 @@ Hello there! I'm Skills, currently learning Python.
 ## My Skills
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
+**Python Skill Level:** ![====-------](https://progress-bar.dev/15/)
+
 ## Let's Connect!
 Feel free to connect with me on Discord: [fviv#0](https://discord.com/users/660280919793598467)
 
 [![Discord Badge](https://lanyard.cnrad.dev/api/660280919793598467)](https://discord.com/users/660280919793598467)
 
-Thats it! 🚀
+Thats all you need to know! 🚀

@@ -9,6 +9,10 @@ Hello there! I'm Skills, currently learning Python.
 ## My Interests
 - 🤖 Coding Discord bots.
 - 🎤 Chilling with friends in VC
+- 🕹️ Gaming
+  
+## My Skills
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 ## Let's Connect!
 Feel free to connect with me on Discord: [fviv#0](https://discord.com/users/660280919793598467)

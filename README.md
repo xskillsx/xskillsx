@@ -1,4 +1,4 @@
-# Welcome to Skills' Coding Journey! 👋
+# Welcome to Skills' Profile! 👋
 
 Hello there! I'm Skills, currently learning Python.
 

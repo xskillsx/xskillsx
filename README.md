@@ -21,6 +21,6 @@ Feel free to connect with me on Discord: [fviv#0](https://discord.com/users/6602
 
 [![Discord Badge](https://lanyard.cnrad.dev/api/660280919793598467)](https://discord.com/users/660280919793598467)
 
-![Profile Views](https://profile-counter.glitch.me/xskilsx/count)
+![Profile Views](https://profile-counter.glitch.me/xskillsx/count)
 
 Thats all you need to know! 🚀

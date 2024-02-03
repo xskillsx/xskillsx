@@ -1,5 +1,32 @@
 # Welcome to Skills' Profile! 👋
 
+W
+We
+Wel
+Welc
+Welco
+Welcom
+Welcome
+Welcome 
+Welcome t
+Welcome to
+Welcome to 
+Welcome to S
+Welcome to Sk
+Welcome to Ski
+Welcome to Skil
+Welcome to Skill
+Welcome to Skill'
+Welcome to Skills'
+Welcome to Skills' 
+Welcome to Skills' P
+Welcome to Skills' Pr
+Welcome to Skills' Pro
+Welcome to Skills' Prof
+Welcome to Skills' Profi
+Welcome to Skills' Profil
+Welcome to Skills' Profile
+Welcome to Skills' Profile! 👋
 Hello there! I'm Skills, currently learning Python.
 
 ## About Me

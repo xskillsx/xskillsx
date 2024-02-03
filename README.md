@@ -1,4 +1,6 @@
-# Welcome to Skills' Profile! 👋
+# Welcome to Skills' Profile! 👋<p align="right">
+  <img align="center" src="https://komarev.com/ghpvc/?username=xskillsx&label=Profile%20views&color=0e75b6&style=flat" alt="nykoos"/>
+</p>
 
 Hello there! I'm Skills, currently learning Python.
 
@@ -20,10 +22,5 @@ Hello there! I'm Skills, currently learning Python.
 Feel free to connect with me on Discord: [fviv#0](https://discord.com/users/660280919793598467)
 
 [![Discord Badge](https://lanyard.cnrad.dev/api/660280919793598467)](https://discord.com/users/660280919793598467)
-
-<p align="right">
-  <img align="center" src="https://komarev.com/ghpvc/?username=xskillsx&label=Profile%20views&color=0e75b6&style=flat" alt="nykoos"/>
-</p>
-
 
 Thats all you need to know! 🚀

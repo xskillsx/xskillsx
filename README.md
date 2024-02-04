@@ -1,5 +1,5 @@
 # Welcome to Skills' Profile! 👋<p align="right">
-  <img align="center" src="https://komarev.com/ghpvc/?username=xskillsx&label=Profile%20views&color=0e75b6&style=flat" alt="nykoos"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=xskillsx&label=Profile%20views&color=0e75b6&style=flat" alt="xskillsx"/>
 </p>
 
 Hello there! I'm Skills, currently learning Python.

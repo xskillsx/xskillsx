@@ -21,6 +21,6 @@ Hello there! I'm Skills, currently learning Python.
 ## Let's Connect!
 Feel free to connect with me on Discord: [fviv#0](https://discord.com/users/660280919793598467)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/660280919793598467?theme=dark&bg=2a2a2a&animated=false&hideDiscrim=true&borderRadius=15px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/660280919793598467)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/660280919793598467?theme=dark&bg=2a2a2a&animated=false&hideDiscrim=true&borderRadius=1px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/660280919793598467)
 
 Thats all you need to know! 🚀
